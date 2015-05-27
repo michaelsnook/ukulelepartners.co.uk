@@ -1,0 +1,30 @@
+# Site settings
+title: Ukulele Partners
+email: rebeccajjarvis@gmail.com
+url: https://ukulelepartners.co.uk/
+description: "We're the partner you need for all of your Activism, Non-Profit, and Social Entrepreneurship consulting needs. We have years of experience with some of the UK's top organizations, and startups around the world."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Ukulele Partners, LLC
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/BeckyJJarvis
+  - title: facebook
+    url: https://www.facebook.com/rebeccajjarvis
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: https://github.com/IronSummitMedia/startbootstrap
+
+# Build settings
+markdown: kramdown
+permalink: pretty
